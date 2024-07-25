@@ -4,7 +4,7 @@ As I am exploring the world of Kubernetes, I decided to experiment with a basic 
 
 ## Start Minikube and apply manifests
 
-First, since I have already installed Minikube and kubectl installed on my local machine, I just need to start it with the command "minikube start". 
+First, since I have already installed Minikube and kubectl on my local machine, I just need to start it with the command "minikube start". 
 
 ![Screenshot (339)](https://github.com/user-attachments/assets/200fa974-2cd6-489b-98ed-6a34171b8d73)
 
